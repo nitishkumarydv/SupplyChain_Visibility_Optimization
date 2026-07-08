@@ -56,20 +56,6 @@ Total Sales, Total Orders, Average Order Value, Profit Margin %, Late Delivery %
 - DAX for reusable measures
 - Python/pandas — used during preparation to profile the raw dataset (null counts, duplicate checks, cardinality) ahead of building the Power Query steps
 
-## Repository Structure
-```
-Milestone1/
-├── SupplyChain_Milestone1.pbix       # Power BI Desktop file (build locally using the M script + steps below)
-├── data/
-│   └── SupplyChain.csv                # Raw source dataset
-├── reference_star_schema_tables/      # Pre-split fact/dim tables (reference only — Power Query builds these live in the .pbix)
-├── screenshots/
-│   └── Data_model.png                 # Model View screenshot
-├── PowerQuery_M_Script.txt            # Base cleaning query + star schema reference steps
-├── PowerQuery_DimDate_Script.txt      # Dim_Date generation script
-├── DAX_Measures.txt                   # All DAX measures
-└── README.md
-```
 
 ## How to Reproduce
 1. Open Power BI Desktop → `Get Data` → `Text/CSV` → `data/SupplyChain.csv` → `Transform Data`.

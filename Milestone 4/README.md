@@ -140,14 +140,4 @@ AVERAGEX(
 
 ---
 
-## 8. File Structure
 
-```
-Supply_Chain_Visibility_Optimization/
-└── Milestone 4/
-    ├── Milestone4_PowerBI.pbix
-    ├── screenshots/
-    │   ├── Warehouse_Efficiency_Dashboard.png
-    │   └── Executive_Dashboard.png
-    └── README.md
-```

@@ -180,7 +180,7 @@ SupplyChain_Visibility_Optimization/
 │   └── Supply_Chain_Visibility_Optimization.pbix
 ├── Data/
 │   ├── Fact_table.csv
-│   ├── Dim_Supplier.xlsx.csv
+│   ├── Dim_Supplier.csv
 │   └── Prophet_Sales_Forecast.csv
 ├── Screenshots/
 │   ├── Executive_Dashboard.png

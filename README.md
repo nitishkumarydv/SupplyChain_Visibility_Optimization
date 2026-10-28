@@ -177,7 +177,7 @@ SupplyChain_Visibility_Optimization/
 │   ├── Screenshots/
 │   └── README.md
 ├── Power Bi/
-│   └── Supply_Chain_Visibility_Optimization.pbix.pbix
+│   └── Supply_Chain_Visibility_Optimization.pbix
 ├── Data/
 │   ├── Fact_table.csv
 │   ├── Dim_Supplier.xlsx.csv
@@ -200,7 +200,7 @@ SupplyChain_Visibility_Optimization/
 ## ▶️ How to Open
 
 1. Install Power BI Desktop
-2. Download `Power Bi/Supply_Chain_Visibility_Optimization.pbix.pbix` and rename it to `.pbix` (remove the extra `.pbix`)
+2. Download `Power Bi/Supply_Chain_Visibility_Optimization.pbix`
 3. Open it in Power BI Desktop and refresh the data if asked (CSV files are in `Data/`)
 
 ---

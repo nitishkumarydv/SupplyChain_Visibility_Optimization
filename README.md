@@ -166,14 +166,22 @@ Units per Order (Warehouse) = DIVIDE ( [Warehouse Units Shipped], [Order Count],
 ## 📁 Repository Structure
 
 ```
-Supply-Chain-Visibility-Optimization/
+SupplyChain_Visibility_Optimization/
 ├── README.md
-├── PowerBI/
-│   └── Supply_Chain_Visibility_Optimization.pbix
+├── Milestone 2/
+│   └── Milestone2_PowerBI.pbix
+├── Milestone 3/
+│   └── Milestone3_PowerBI.pbix
+├── Milestone 4/
+│   ├── Milestone4_PowerBI.pbix
+│   ├── Screenshots/
+│   └── README.md
+├── Power Bi/
+│   └── Supply_Chain_Visibility_Optimization.pbix.pbix
 ├── Data/
-│   ├── Fact_table.xlsx
-│   ├── prophet_table.csv
-│   └── Dim_Supplier.csv
+│   ├── Fact_table.csv
+│   ├── Dim_Supplier.xlsx.csv
+│   └── Prophet_Sales_Forecast.csv
 ├── Screenshots/
 │   ├── Executive_Dashboard.png
 │   ├── Inventory_Analytics.png
@@ -184,7 +192,7 @@ Supply-Chain-Visibility-Optimization/
 ├── Documentation/
 │   └── Data_Model.png
 └── Presentation/
-    └── Supply_Chain_Visibility_Optimization.pptx
+    └── Supply_Chain_Visibility_Optimization_FINAL.pptx
 ```
 
 ---
@@ -192,8 +200,8 @@ Supply-Chain-Visibility-Optimization/
 ## ▶️ How to Open
 
 1. Install Power BI Desktop
-2. Open `PowerBI/Supply_Chain_Visibility_Optimization.pbix`
-3. If asked, refresh the data or point it to the files in `Data/`
+2. Download `Power Bi/Supply_Chain_Visibility_Optimization.pbix.pbix` and rename it to `.pbix` (remove the extra `.pbix`)
+3. Open it in Power BI Desktop and refresh the data if asked (CSV files are in `Data/`)
 
 ---
 
